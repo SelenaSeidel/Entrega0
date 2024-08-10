@@ -1,2 +1,2 @@
 # Entrega0
- mi primer repositorio
+ mi primer repositorio.
